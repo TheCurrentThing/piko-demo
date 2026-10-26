@@ -1,0 +1,7 @@
+:HL["/piko-demo/_next/static/chunks/26z86a0t81qbc.css","style"]
+:HL["/piko-demo/_next/static/media/figtree_latin_wght_normal-s.p.08sr_7r2rzxl4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"id","t":"d","k":"a-math-corr","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"assignments","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"student","h":96,"c":"$Q2"}]]
+0:{"b":"JARn-q-8oTVUeJBQTo1_e","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
